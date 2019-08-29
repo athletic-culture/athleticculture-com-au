@@ -1,0 +1,16 @@
+# Jekyll configuration
+
+name: athleticculture-com-au
+description: Athletic Culture Website
+author:
+  name: Mike Causer
+  email: mcauser@gmail.com
+
+url: http://athletic-culture.github.io/athleticculture-com-au
+
+exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md"]
+
+sass:
+  style: compressed
+
+encoding: utf-8
