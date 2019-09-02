@@ -5,8 +5,14 @@ permalink: /
 ---
 
 <div class="main">
-  <div class="logo">
-    <img src="/images/ac-logo.png">
+  <div class="soon">
+    <img src="/images/ac-logo.svg">
+  	<h1>Athletic Culture</h1>
+  	<h2>Opening Soon</h2>
+  	<div class="social">
+  	  <a href="https://www.facebook.com/athleticcuture/">
+  	  	<i class="fa fa-facebook fa-3x"></i>
+  	  </a>
+  	</div>
   </div>
-  <h1>Coming Soon</h1>
 </div>

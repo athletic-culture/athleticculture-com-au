@@ -18,6 +18,6 @@ https://athletic-culture.github.io/athleticculture-com-au
 # Initial Setup
 
 * `rbenv install 2.3.1`
-* `gem install jekyll`
-* `gem install bundler`
+* `gem install jekyll -v '3.8.5'`
+* `gem install bundler -v '1.17.3'`
 * `bundle install`
