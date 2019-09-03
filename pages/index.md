@@ -10,7 +10,7 @@ permalink: /
   	<h1>Athletic Culture</h1>
   	<h2>Opening Soon</h2>
   	<div class="social">
-  	  <a href="https://www.facebook.com/athleticcuture/">
+  	  <a href="https://www.facebook.com/athleticculturegym/">
   	  	<i class="fa fa-facebook fa-3x"></i>
   	  </a>
   	</div>
